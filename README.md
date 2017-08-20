@@ -1,6 +1,6 @@
 # SlackMemeWebhook
 
-I built this as a joke/prank for a coworker who became the subject of numerous memes. Everyone was manually making the memes, but with this they could just tell Slack to generate it by supplying the picture and text desired as parameters.
+I built this as a joke/prank for a coworker who became the subject of numerous memes. Everyone was manually making the memes, but with this they could just tell Slack to generate it by supplying the picture and text as desired parameters.
 
 Usage: /slackCommand emotion toptext bottomtext
 
